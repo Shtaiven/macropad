@@ -1,3 +1,6 @@
 [submodule "ecad/libraries/MX_Alps_Hybrid"]
 	path = ecad/libraries/MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid
+[submodule "ecad/libraries/digikey-kicad-library"]
+	path = ecad/libraries/digikey-kicad-library
+	url = git@github.com:Digi-Key/digikey-kicad-library.git
