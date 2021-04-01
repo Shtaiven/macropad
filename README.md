@@ -1,6 +1,6 @@
 # QMK Macropad 5x5
 
-A 5x5 key macropad with USB-C and USB hub for Cherry MX-style switches.
+A 5x5 key macropad with USB-C connector for Cherry MX-style switches.
 
 ## Repo structure
 
